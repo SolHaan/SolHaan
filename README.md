@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### 🌱 I’m currently learning Game Programming from South Korea.
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfaks79@gmail.com)](mailto:dhfaks79@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/dhfaks79@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfaks79@gmail.com)](mailto:dhfaks79@gmail.com)
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SolHaan&show_icons=true&theme=radical) 
