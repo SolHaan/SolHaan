@@ -1,6 +1,6 @@
-<div align=center><h1>
+<div align=center><h2>
   Hi there 👋, I'm Han Sol!
-  </h1></div>
+  </h2></div>
   
 <!--
 **SolHaan/SolHaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 I’m currently learning Game Programming from South Korea.
+##### 🌱 I’m currently learning Game Programming from South Korea.
 
 [![Gmail Badge](https://img.shields.io/badge/dhfaks79@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfaks79@gmail.com)](mailto:dhfaks79@gmail.com)
 
