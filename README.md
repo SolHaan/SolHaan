@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 #### 🌱 I’m currently learning Game Programming from South Korea.
-#### 🔭 I'm developing a game using Unity. If you are interested in me, please contact me by email.
+-->
+#### 🔭 I'm developing a game using C#. If you are interested in me, please contact me by email.
 
 [![Gmail Badge](https://img.shields.io/badge/hansol13084@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansol13084@gmail.com)](mailto:hansol13084@gmail.com)
 
