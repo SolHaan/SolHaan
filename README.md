@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 #### 🌱 I’m currently learning Game Programming from South Korea.
 #### 🔭 I'm developing a game using Unity. If you are interested in me, please contact me by email.
 
-[![Gmail Badge](https://img.shields.io/badge/dhfaks79@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhfaks79@gmail.com)](mailto:dhfaks79@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/hansol13084@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansol13084@gmail.com)](mailto:hansol13084@gmail.com)
 
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SolHaan&show_icons=true&theme=radical) 
