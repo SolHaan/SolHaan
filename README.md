@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FF9292&height=120&section=header&text=Han%20Sol&fontSize=60&animation=twinkling&fontColor=3EC1D3)
-  
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Han%20Sol&fontSize=60&animation=twinkling)
+
 <div align="center">
     
   <a href="https://github.com/SolHaan"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolHaan&theme=algolia&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
