@@ -1,4 +1,4 @@
-<!--읽어주셔서 감사합니다! star 부탁드립니다 *^^*-->
+<!--반갑습니다!*^^*-->
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=150&section=header&text=Han%20Sol&fontSize=60&animation=twinkling)
 
 <div align="center">
