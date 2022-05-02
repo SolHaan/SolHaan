@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <a href="https://solved.ac/amozo"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=amozo"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp 
 -->
 
 <div align="center">
@@ -15,8 +17,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=Csharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/></a>&nbsp 
   <br>
 </p>
 
